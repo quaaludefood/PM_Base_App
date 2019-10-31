@@ -2,11 +2,6 @@ package com.example.PM_Base_App.ui.viewmodel;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
-import com.example.PM_Base_App.data.Resource;
-import com.example.PM_Base_App.data.local.dao.ActionDao;
-import com.example.PM_Base_App.data.local.entity.ActionEntity;
-import com.example.PM_Base_App.data.remote.api.ActionApiService;
-import com.example.PM_Base_App.data.repository.ActionRepository;
 
 import java.util.List;
 
